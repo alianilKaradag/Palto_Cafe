@@ -1,5 +1,5 @@
 # Palto_Cafe
-Cafe Order Software
+Cafe Management Software
 
 
 --------------------------------------------------------------------------------------
